@@ -11,9 +11,9 @@ To create an interactive visualization that can provide data-driven insights to 
 
 ## Submission
 
-* [Presentation]()
-* [Repository]()
-* [Prototype]()
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/lambon/Spatial%20Analysis%20%26%20Interactive%20Visualization%20for%20BARMM.pptx)
+* [Repository](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/lambon/repository)
+* [Prototype](https://public.tableau.com/profile/aldrinlambon#!/vizhome/BangsamoroSocio-EconomicProfile/OpenBangsamoroData)
 
 ## Contact Us
 
