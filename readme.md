@@ -21,7 +21,7 @@ The following were the finalists for the challenge:
 * [Bernardo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/bernardo-et-al), *Presentation*, Barangay Human Development 
 * [Cacho](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/cacho), *Presentation*, Conflict Alert Report
 * [Caday, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/caday-et-al), *Presentation*, Rubber from Rubber Tree (Hevea brasiliensis) as a Strengthening Agent for Road Reconstruction in Bangsamoro 
-* [Jairus, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/jairus-et-al) 
+* [Jairus, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/jairus-et-al), *Dashboard*, Infrastructure and Geospatial Data 
 * [Lambon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/lambon), *Dashboard*, Spatial Analysis & Interactive Visualization
 for BARMM
 * [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus), *Dashboard*, EARTHQUAKE-AT-ARMMs: Exposing Earthquake- and Tsunami-Prone Areas in ARMM

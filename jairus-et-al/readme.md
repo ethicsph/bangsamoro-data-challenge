@@ -1,5 +1,9 @@
 # Bangsamoro Data Challenge: Jairus, et. al. 
 
+## Title
+
+*Dashboard*, Infrastructure and Geospatial Data
+
 ## Abstract
 
 Open and accessible data can be a tool for democritizing institutions and empowering communities as the Autonomous Region in Muslim Mindanao (ARMM) transitions into the Bangsamoro Autonomous Region in Muslim Mindanao. Making such data accessible to policy-makers, community leaders, and the public-at-large is key in creating well-informed and equitable policies, especially in a region where autonomous governance has been historically contested. We propose creating a publically available interactive dashboard, which could focus on two main areas thus far:
@@ -10,6 +14,9 @@ Open and accessible data can be a tool for democritizing institutions and empowe
 We envision this dashboard to use data from both national instutition, local governments, and also open to the public to contribute. This way, we are able to ensure transparency at all levels, leading to a culturally sensitive and ethically sound process for decision making throughout this transition.
 
 ## Submission
+
+* [Repository]()
+* [Prototype]()
 
 ## Contact Us
 
