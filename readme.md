@@ -14,29 +14,29 @@ A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists
 
 ### Finalists
 
-The following are the finalists for the challenge: 
+The following were the finalists for the challenge: 
 
-* Amistad and Dela Cruz
-* Arcemo, et. al.
-* Bernardo, et. al. 
-* Cacho
-* Caday, et. al. 
-* Jairus, et. al. 
-* Lambon
-* Puspus
-* Tasico, et. al. 
-* Tomas, et. al. 
-* Yumol, et. al. 
+* [Amistad and Dela Cruz](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/amistad-delacruz)
+* [Arcemo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/arcemo-et-al)
+* [Bernardo, et. al.]https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/bernardo-et-al 
+* [Cacho](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/cacho)
+* [Caday, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/caday-et-al) 
+* [Jairus, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/jairus-et-al) 
+* [Lambon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/lambon)
+* [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus)
+* [Tasico, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tasico-et-al) 
+* [Tomas, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tomas-et-al)
+* [Yumol, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al)
 
 ### Other Abstracts
 
 The following abstracts were also submitted: 
 
-* Buaya
-* Porras
-* Ritualo, et. al. 
-* Sumalde, et. al. 
-* Tingzon
+* [Buaya](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/buaya)
+* [Porras and Bruno](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/porras-bruno)
+* [Ritualo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/ritualo-et-al) 
+* [Sumalde, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/sumalde-et-al) 
+* [Tingzon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tingzon)
 
 ## Contact Us
 
