@@ -1,4 +1,4 @@
-# Bangsamoro Data Challenge: Bernardo, et. al.
+# Bangsamoro Data Challenge: Buaya
 
 ## Abstract
 
