@@ -8,9 +8,9 @@ The production of plastic had brought tremendous changes in fields such as manuf
 
 ## Contact Us
 
-* [Micaella M. Arcemo](mailto:arsenal.ivory@gmail.com) Principal Investigator and Regulatory Coordinator
-* [Ma. Christine Angela S. Quimio](mailto:quimiochristine@gmail.com) Researcher Coordinator and Co-Investigator
-* [Ronnel Matthew N. Robles](mailto:matthewnrobles@gmail.com) Data Coordinator and Regulatory Coordinator
-* [Nicole Dane R. Tolentino](mailto:tolentinonicoledane@gmail.com) Sub-Investigator and Research Coordinator
+* [Micaella M. Arcemo](mailto:arsenal.ivory@gmail.com), Principal Investigator and Regulatory Coordinator
+* [Ma. Christine Angela S. Quimio](mailto:quimiochristine@gmail.com), Researcher Coordinator and Co-Investigator
+* [Ronnel Matthew N. Robles](mailto:matthewnrobles@gmail.com), Data Coordinator and Regulatory Coordinator
+* [Nicole Dane R. Tolentino](mailto:tolentinonicoledane@gmail.com), Sub-Investigator and Research Coordinator
 
 We welcome collaborators. Contact us via email, or email us at info@ethics.ph.

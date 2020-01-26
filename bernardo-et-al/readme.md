@@ -30,8 +30,8 @@ https://www.un.org/development/desa/disabilities/envision2030.html
 
 ## Contact Us
 
-* [George C. Bernardo](mailto:gbernardo.grace@gmail.com) Psychometrician, Coordinator
-* [Alejandro Ibanez](mailto:aibanez.grace@gmail.com) Sociologist, SME
-* [Karissa Danice O'Hara](kdohara.grace@gmail.com) Psychologist, SME
+* [George C. Bernardo](mailto:gbernardo.grace@gmail.com), Psychometrician, Coordinator
+* [Alejandro Ibanez](mailto:aibanez.grace@gmail.com), Sociologist, SME
+* [Karissa Danice O'Hara](kdohara.grace@gmail.com), Psychologist, SME
 
 We welcome collaborators. Contact us via email, or email us at info@ethics.ph.
