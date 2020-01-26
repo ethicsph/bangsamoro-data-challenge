@@ -1,5 +1,9 @@
 # Bangsamoro Data Challenge: Ritualo, et. al. 
 
+## Title
+
+*Abstract*, Understanding violence from the children's perspective 
+
 ## Abstract
 
 Traditional family dynamics view children during conversations are more often seen, but not heard. This dynamic is aggravated in conflicted and culturally diverse areas. Numerous efforts are being done from different peace building organizations globally. The clamor for better data and ways of understanding violence led the researchers to find how violence would look like from the children's perspective through an object that would serve as a clicker that logs the frequency of its usage.

@@ -1,5 +1,9 @@
 # Bangsamoro Data Challenge: Sumalde, et. al. 
 
+## Title
+
+*Abstract*, Conflict Incidents in ARMM, Data and Trends
+
 ## Abstract
 
 Conflict Incidents in ARMM (Security - Conflict Incidents in ARMM (Conflict Alert 2015).zip )are critical data that would tell us the realities of the Bangsamoro. A proper data visualization dashboard would help us get a better understanding of the general trends, and a way to track and look the data at various angle - data wise.

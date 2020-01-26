@@ -33,11 +33,11 @@ for BARMM
 
 The following abstracts were also submitted: 
 
-* [Buaya](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/buaya)
-* [Porras and Bruno](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/porras-bruno)
-* [Ritualo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/ritualo-et-al) 
-* [Sumalde, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/sumalde-et-al) 
-* [Tingzon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tingzon)
+* [Buaya](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/buaya), *Abstract*, Data base of the Indigenous Peoples in the Bangsamoro.
+* [Porras and Bruno](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/porras-bruno), *Abstract*, Community Based Monitoring Dashboard
+* [Ritualo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/ritualo-et-al), *Abstract*, Understanding violence from the children's perspective 
+* [Sumalde, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/sumalde-et-al), *Abstract*, Conflict Incidents in ARMM, Data and Trends
+* [Tingzon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tingzon), *Abstract*, Geospatial Analysis Platform for Humanitarian Orgs and Local Government
 
 ## Contact Us
 
