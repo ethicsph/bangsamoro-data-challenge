@@ -15,8 +15,8 @@ We envision this dashboard to use data from both national instutition, local gov
 
 ## Submission
 
-* [Repository]()
-* [Prototype]()
+* [Repository](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/jairus-et-al/repository)
+* [Prototype](https://public.tableau.com/profile/marcreyesph#!/vizhome/Bangsamoro_Data_Updated/Welcome)
 
 ## Contact Us
 
