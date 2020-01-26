@@ -26,7 +26,7 @@ The following were the finalists for the challenge:
 * [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus)
 * [Tasico, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tasico-et-al) 
 * [Tomas, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tomas-et-al)
-* [Yumol, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al)
+* [Yumol, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al), *Presentation*, Barriers to Education: Identifying key indicators to improve student retention in BARMM
 
 ### Other Abstracts
 
