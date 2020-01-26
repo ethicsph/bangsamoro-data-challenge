@@ -1,10 +1,16 @@
 # Bangsamoro Data Challenge: Tasico, et. al. 
 
+## Title
+
+*Presentation*, Tidjara Ta: Bangsamoro Barter App
+
 ## Abstract
 
 Create an app for barter trade across BIMP EAGA that utilizes geospatial data w/c it is intended for the people of BARMM to practice free trade and aid the institutionalization of the barter system (EO 64 Article V Section2).
 
 ## Submission
+
+* [Presentation]()
 
 ## Contact Us
 

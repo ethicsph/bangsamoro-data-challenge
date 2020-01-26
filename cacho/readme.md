@@ -10,7 +10,7 @@ ARMM has been the center of rebellion and war crimes for decades. Using the data
 
 ## Submission
 
-* [Presentation]()
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/cacho/SENT_%20Bangsamoro%20Analysis.pdf)
 
 ## Contact Us
 
