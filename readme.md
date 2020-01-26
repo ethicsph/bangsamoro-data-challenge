@@ -16,7 +16,7 @@ A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists
 
 The following were the finalists for the challenge: 
 
-* [Amistad and Dela Cruz](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/amistad-delacruz)
+* [Amistad and Dela Cruz](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/amistad-delacruz), *Dashboard*, Overcome Development Challenges through Visualization Dashboards
 * [Arcemo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/arcemo-et-al), *Presentation*, Exploring Kappaphycus alvarezii (Tambalang) and Eucheuma denticulatum (Guso) Properties as Sources for Bioplastic Production:  Economical and Environmental Benefits for the People of BARMM
 * [Bernardo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/bernardo-et-al), *Presentation*, Barangay Human Development 
 * [Cacho](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/cacho), *Presentation*, Conflict Alert Report
