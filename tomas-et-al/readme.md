@@ -16,7 +16,7 @@ Creating and distributing own products will not only benefit in having low cost 
 
 ## Submission
 
-* [Presentation]()
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/tomas-et-al/Copra%20Meal%20As%20an%20Alternative%20Feeds%20for%20Fishery%20-%20LPU%20LAGUNA%20TEAM%203.pdf)
 
 ## Contact Us
 
