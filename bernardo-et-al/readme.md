@@ -1,5 +1,9 @@
 # Bangsamoro Data Challenge: Bernardo, et. al.
 
+## Title
+
+*Presentation*, Barangay Human Development
+
 ## Abstract
 
 Accurate assessment is must in order to properly evaluate the progress of a nation. Without this, policy makers, leaders, and government official would be unaware of what work would be needed and where and if the existing interventions are working or not. Public-Private Partnership Center defined capacity building as a way to empower implementing agencies with the competencies to craft well-structured development projects. Thru this project we hope to determine the capacity of Bangsamoro by identifying the threshold and limitations of the area to serve as basis for planning and development towards a more sustainable management of Bangsamoro which we hope to serve the 17 sustainable development goals of UNESCO. To determine the capacity, we’d be looking at the physical, environmental, and social aspect of the area.
@@ -27,6 +31,8 @@ https://ppp.gov.ph/services/capacity-building/
 https://www.un.org/development/desa/disabilities/envision2030.html
 
 ## Submission
+
+* [Presentation]()
 
 ## Contact Us
 
