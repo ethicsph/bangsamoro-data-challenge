@@ -23,8 +23,8 @@ The following were the finalists for the challenge:
 * [Caday, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/caday-et-al), *Presentation*, Rubber from Rubber Tree (Hevea brasiliensis) as a Strengthening Agent for Road Reconstruction in Bangsamoro 
 * [Jairus, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/jairus-et-al) 
 * [Lambon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/lambon)
-* [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus)
-* [Tasico, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tasico-et-al) 
+* [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus), *Dashboard*, EARTHQUAKE-AT-ARMMs: Exposing Earthquake- and Tsunami-Prone Areas in ARMM
+* [Tasico, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tasico-et-al), *Presentation*, Tidjara Ta: Bangsamoro Barter App
 * [Tomas, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tomas-et-al), *Presentation*, Copra Meal: As an Alternative Feeds for Fishery
 * [Yumol, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al), *Presentation*, Barriers to Education: Identifying key indicators to improve student retention in BARMM
 

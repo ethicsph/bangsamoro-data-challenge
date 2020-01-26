@@ -10,7 +10,7 @@ Create an app for barter trade across BIMP EAGA that utilizes geospatial data w/
 
 ## Submission
 
-* [Presentation]()
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/tasico-et-al/TidjaraTa.pptx)
 
 ## Contact Us
 
