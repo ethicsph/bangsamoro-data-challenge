@@ -1,10 +1,19 @@
 # Bangsamoro Data Challenge: Lambon 
 
+## Title
+
+*Dashboard*, Spatial Analysis & Interactive Visualization
+for BARMM
+
 ## Abstract
 
 To create an interactive visualization that can provide data-driven insights to policy makes of BARMM. 
 
 ## Submission
+
+* [Presentation]()
+* [Repository]()
+* [Prototype]()
 
 ## Contact Us
 

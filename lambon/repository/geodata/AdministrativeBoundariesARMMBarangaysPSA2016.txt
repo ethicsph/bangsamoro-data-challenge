@@ -1,0 +1,8 @@
+Title:	Indicative ARMM Barangay Administrative Boundaries
+File name:	AdministrativeBoundariesARMMBarangaysPSA2016.shp
+Source agency:	Philippine Statistics Authority
+Date:	2016
+Reference: IMTWG_BarangayCOD_June2016.shp downloaded from UN-OCHA
+
+Description:
+Administrative boundaries of barangays belonging to ARMM.  These boundaries are indicative and should not be considered authoritative.
