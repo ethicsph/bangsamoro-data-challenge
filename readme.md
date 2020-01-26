@@ -25,7 +25,7 @@ The following were the finalists for the challenge:
 * [Lambon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/lambon)
 * [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus)
 * [Tasico, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tasico-et-al) 
-* [Tomas, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tomas-et-al)
+* [Tomas, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tomas-et-al), *Presentation*, Copra Meal: As an Alternative Feeds for Fishery
 * [Yumol, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al), *Presentation*, Barriers to Education: Identifying key indicators to improve student retention in BARMM
 
 ### Other Abstracts

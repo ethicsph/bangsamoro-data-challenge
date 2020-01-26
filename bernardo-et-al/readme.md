@@ -27,12 +27,12 @@ Accurate assessment is must in order to properly evaluate the progress of a nati
 * GOAL 17: Partnerships to achieve the Goal
 
 Sources:
-https://ppp.gov.ph/services/capacity-building/
-https://www.un.org/development/desa/disabilities/envision2030.html
+* https://ppp.gov.ph/services/capacity-building/
+* https://www.un.org/development/desa/disabilities/envision2030.html
 
 ## Submission
 
-* [Presentation]()
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/bernardo-et-al/Barangay%20Human%20Development.pptx)
 
 ## Contact Us
 

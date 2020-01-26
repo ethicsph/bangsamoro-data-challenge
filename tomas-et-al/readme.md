@@ -1,5 +1,9 @@
 # Bangsamoro Data Challenge: Tomas, et. al.  
 
+## Title
+
+*Presentation*, Copra Meal: As an Alternative Feeds for Fishery
+
 ## Abstract
 
 Evident transitions that is taking place in a community provides the real-life societal and environmental issues sitting within a locality that is needed to be resolved by long-term solutions. Starting from a place of knowledge helps understand the context and consider the best course of action to take. These courses of action are realized and the contemplation of the issues are identified and addressed as data and statistics come in play to relay important information that allows to compare past to future findings in order to seek probable solutions to the presented problem. To the best of its knowledge, this paper explored the case of poverty and unemployment in Bangsamoro Autonomous Region of Muslim Mindanao (BARMM) and proposed a livelihood that is best fit to the community to resolve the issue.
@@ -11,6 +15,8 @@ It is accounted that over 60%-70% of the costs to feed tilapia are due to the im
 Creating and distributing own products will not only benefit in having low cost production but also for sustainability of livelihood. This is a study that presents an idea on how to battle poverty and possible solution is to increase the growth of the economy.
 
 ## Submission
+
+* [Presentation]()
 
 ## Contact Us
 
