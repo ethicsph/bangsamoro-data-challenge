@@ -19,8 +19,8 @@ The following were the finalists for the challenge:
 * [Amistad and Dela Cruz](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/amistad-delacruz)
 * [Arcemo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/arcemo-et-al), *Presentation*, Exploring Kappaphycus alvarezii (Tambalang) and Eucheuma denticulatum (Guso) Properties as Sources for Bioplastic Production:  Economical and Environmental Benefits for the People of BARMM
 * [Bernardo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/bernardo-et-al), *Presentation*, Barangay Human Development 
-* [Cacho](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/cacho)
-* [Caday, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/caday-et-al) 
+* [Cacho](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/cacho), *Presentation*, Conflict Alert Report
+* [Caday, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/caday-et-al), *Presentation*, Rubber from Rubber Tree (Hevea brasiliensis) as a Strengthening Agent for Road Reconstruction in Bangsamoro 
 * [Jairus, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/jairus-et-al) 
 * [Lambon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/lambon)
 * [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus)
