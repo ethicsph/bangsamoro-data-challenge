@@ -31,8 +31,10 @@ Sources:
 * https://www.un.org/development/desa/disabilities/envision2030.html
 
 ## Submission
+* Preview: 
+![alt text](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/bernardo-et-al/preview.png "Human Development Index")
 
-* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/bernardo-et-al/Barangay%20Human%20Development.pptx)
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/bernardo-et-al/Barangay%20Human%20Development.pdf)
 
 ## Contact Us
 

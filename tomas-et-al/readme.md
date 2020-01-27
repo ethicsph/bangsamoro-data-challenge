@@ -15,6 +15,8 @@ It is accounted that over 60%-70% of the costs to feed tilapia are due to the im
 Creating and distributing own products will not only benefit in having low cost production but also for sustainability of livelihood. This is a study that presents an idea on how to battle poverty and possible solution is to increase the growth of the economy.
 
 ## Submission
+* Preview: 
+![alt text](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/tomas-et-al/preview.png "Crops")
 
 * [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/tomas-et-al/Copra%20Meal%20As%20an%20Alternative%20Feeds%20for%20Fishery%20-%20LPU%20LAGUNA%20TEAM%203.pdf)
 

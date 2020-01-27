@@ -9,8 +9,10 @@
 Create an app for barter trade across BIMP EAGA that utilizes geospatial data w/c it is intended for the people of BARMM to practice free trade and aid the institutionalization of the barter system (EO 64 Article V Section2).
 
 ## Submission
+* Presentation: 
+![alt text](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/tasico-et-al/preview.png "Features")
 
-* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/tasico-et-al/TidjaraTa.pptx)
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/tasico-et-al/TidjaraTa.pdf)
 
 ## Contact Us
 

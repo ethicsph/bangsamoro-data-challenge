@@ -14,6 +14,8 @@ Open and accessible data can be a tool for democritizing institutions and empowe
 We envision this dashboard to use data from both national instutition, local governments, and also open to the public to contribute. This way, we are able to ensure transparency at all levels, leading to a culturally sensitive and ethically sound process for decision making throughout this transition.
 
 ## Submission
+* Preview:
+![alt text](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/jairus-et-al/preview.png "Infrastructure")
 
 * [Repository](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/jairus-et-al/repository)
 * [Prototype](https://public.tableau.com/profile/marcreyesph#!/vizhome/Bangsamoro_Data_Updated/Welcome)
