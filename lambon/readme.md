@@ -13,7 +13,7 @@ To create an interactive visualization that can provide data-driven insights to 
 * Preview: 
 ![alt text](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/lambon/preview.png "Population Profile")
 
-* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/lambon/Spatial%20Analysis%20%26%20Interactive%20Visualization%20for%20BARMM.pdf)
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/lambon/Analytics%20Dashboard%20Presentation.pdf)
 * [Repository](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/lambon/repository)
 * [Prototype](https://public.tableau.com/profile/aldrinlambon#!/vizhome/BangsamoroSocio-EconomicProfile/OpenBangsamoroData)
 

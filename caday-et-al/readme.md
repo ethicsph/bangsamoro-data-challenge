@@ -12,7 +12,7 @@ The research is about rubber from Rubber Tree (Hevea brasiliensis) as a strength
 * Preview: 
 ![alt text](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/caday-et-al/preview.png "Conflict Incidents")
 
-* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/caday-et-al/Rubber%20Trees%20for%20Bangsamoro_Lyceum%20of%20the%20Philippines%20University%20Laguna.pdf)
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/caday-et-al/Rubber_Trees_Bangsamoro.pdf)
 
 ## Contact Us
 
