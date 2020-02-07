@@ -12,7 +12,7 @@ Through interactive dashboard, I will present the data from Open Bangsamoro Tabu
 * Preview: 
 ![alt text](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/amistad-delacruz/preview.png "dashboard")
 
-* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/amistad-delacruz/Bangsamoro%20Data%20Challenge%20by%20Amistad%2C%20dela%20Cruz.pdf)
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/amistad-delacruz/Bangsamoro%20Data%20Challenge%20by%20Amistad%2C%20dela%20Cruz%20-%20final%20version.pdf)
 * [PowerBI File](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/amistad-delacruz/Data_Challenge_v2.pbix)
 * [Prototype](https://app.powerbi.com/view?r=eyJrIjoiNzRkZTA2ZmQtMWQ4NS00YmE5LTllZGUtZGI1MzU0Mzc1YTk2IiwidCI6ImE2NTFlM2M3LTU1M2ItNGNmNy05Y2I3LTFlMDZjYjQ0MWIwYSIsImMiOjEwfQ%3D%3D)
 
