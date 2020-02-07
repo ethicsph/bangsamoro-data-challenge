@@ -12,6 +12,7 @@ Previous studies show that BARMM has a higher than average student dropout rate 
 * Preview: 
 ![alt text](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/yumol-et-al/preview.png "Correlations")
 
+* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/yumol-et-al/Bangsamoro%20Night%20Presentation.pdf)
 * [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/yumol-et-al/Bangsamoro%20Education.pdf)
 * [Repository](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al/repository)
 
