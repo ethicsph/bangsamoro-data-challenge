@@ -18,6 +18,8 @@ We envision this dashboard to use data from both national instutition, local gov
 ![alt text](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/jairus-et-al/preview.png "Infrastructure")
 
 * [Repository](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/jairus-et-al/repository)
+
+* [Pitch Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/jairus-et-al/Democratizing%20Data%20in%20the%20Bangsamoro%20Region.pdf)
 * [Updated Prototype](https://bangsamoro.marcreyes.ph/)
 * [Original Prototype](https://public.tableau.com/profile/marcreyesph#!/vizhome/Bangsamoro_Data_Updated/Welcome)
 

@@ -13,7 +13,7 @@ Mindanao is the most seismically active major island in the Philippines. This st
 * Preview: 
 ![alt text](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/puspus/dashboard.png "Dashboard")
 
-* [Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/puspus/SHAKING%20Barmm.pdf)
+* [Pitch Presentation](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/puspus/SHAKING%20Barmm.pdf)
 * [Prototype](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/wscmap8sriu1hx9/keplergl_3e42t8s.json)
 
 ## Contact Us
