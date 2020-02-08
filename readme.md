@@ -16,10 +16,9 @@ A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists
 
 The following were the finalists for the challenge: 
 
+The following are confirmed for pitch night: 
 * [Amistad and Dela Cruz](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/amistad-delacruz), *Dashboard*, Overcome Development Challenges through Visualization Dashboards
 * [Arcemo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/arcemo-et-al), *Presentation*, Exploring Kappaphycus alvarezii (Tambalang) and Eucheuma denticulatum (Guso) Properties as Sources for Bioplastic Production:  Economical and Environmental Benefits for the People of BARMM
-* [Bernardo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/bernardo-et-al), *Presentation*, Barangay Human Development 
-* [Cacho](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/cacho), *Presentation*, Conflict Alert Report
 * [Caday, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/caday-et-al), *Presentation*, Rubber from Rubber Tree (Hevea brasiliensis) as a Strengthening Agent for Road Reconstruction in Bangsamoro 
 * [Jairus, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/jairus-et-al), *Dashboard*, Infrastructure and Geospatial Data 
 * [Lambon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/lambon), *Dashboard*, Spatial Analysis & Interactive Visualization
@@ -29,9 +28,14 @@ for BARMM
 * [Tomas, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tomas-et-al), *Presentation*, Copra Meal: As an Alternative Feeds for Fishery
 * [Yumol, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al), *Presentation*, Barriers to Education: Identifying key indicators to improve student retention in BARMM
 
+*The following entries were finalists but advised they would not be pitching for the finals:* 
+
+* [Bernardo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/bernardo-et-al), *Presentation*, Barangay Human Development 
+* [Cacho](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/cacho), *Presentation*, Conflict Alert Report
+
 ### Other Abstracts
 
-The following abstracts were also submitted: 
+The following abstracts were also submitted but did not proceed to the finals: 
 
 * [Buaya](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/buaya), *Abstract*, Data base of the Indigenous Peoples in the Bangsamoro.
 * [Porras and Bruno](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/porras-bruno), *Abstract*, Community Based Monitoring Dashboard
