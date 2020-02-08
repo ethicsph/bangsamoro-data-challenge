@@ -10,13 +10,12 @@ Open Bangsamoro was a collaborative initiative of [The Asia Foundation](https://
 
 ## Entries
 
-A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists were selected to participate in the [final pitch night](https://ethics.ph/bangsamoro-judging/). 
+A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists were selected to participate in the [final pitch night](https://ethics.ph/bangsamoro-judging/) and nine(9) confirmed their attendance. 
 
 ### Finalists
 
-The following were the finalists for the challenge: 
-
 The following are confirmed for pitch night: 
+
 * [Amistad and Dela Cruz](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/amistad-delacruz), *Dashboard*, Overcome Development Challenges through Visualization Dashboards
 * [Arcemo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/arcemo-et-al), *Presentation*, Exploring Kappaphycus alvarezii (Tambalang) and Eucheuma denticulatum (Guso) Properties as Sources for Bioplastic Production:  Economical and Environmental Benefits for the People of BARMM
 * [Caday, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/caday-et-al), *Presentation*, Rubber from Rubber Tree (Hevea brasiliensis) as a Strengthening Agent for Road Reconstruction in Bangsamoro 
@@ -28,7 +27,7 @@ for BARMM
 * [Tomas, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tomas-et-al), *Presentation*, Copra Meal: As an Alternative Feeds for Fishery
 * [Yumol, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al), *Presentation*, Barriers to Education: Identifying key indicators to improve student retention in BARMM
 
-*The following entries were finalists but advised they would not be pitching for the finals:* 
+*The following entries were invited as finalists but advised that they would not be pitching for the finals:* 
 
 * [Bernardo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/bernardo-et-al), *Presentation*, Barangay Human Development 
 * [Cacho](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/cacho), *Presentation*, Conflict Alert Report
