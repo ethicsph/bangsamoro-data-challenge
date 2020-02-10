@@ -10,7 +10,7 @@ Open Bangsamoro was a collaborative initiative of [The Asia Foundation](https://
 
 ## Entries
 
-A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists were selected to participate in the [final pitch night](https://ethics.ph/bangsamoro-judging/) and nine (9) confirmed their attendance. 
+A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists were selected to participate in the [final pitch night](https://ethics.ph/bangsamoro-judging/) and eight (8) confirmed their attendance. 
 
 ### Finalists
 
