@@ -10,20 +10,31 @@ Open Bangsamoro was a collaborative initiative of [The Asia Foundation](https://
 
 ## Entries
 
-A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists were selected to participate in the [final pitch night](https://ethics.ph/bangsamoro-judging/) and eight (8) confirmed their attendance. 
+A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists were selected to participate in the [final pitch night](https://ethics.ph/bangsamoro-judging/) and eight (8) confirmed their attendance. Three (3) teams won the pitch night competition. 
 
-### Finalists
+### Finalists and Winners
 
-The following are confirmed for pitch night: 
+The following were the winners of the pitch night: 
+
+**Most Relevant to BARMM, Best Use of Bangsamoro Data**
 
 * [Amistad and Dela Cruz](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/amistad-delacruz), *Dashboard*, Overcome Development Challenges through Visualization Dashboards
+
+**Best Use of Data Science**
+
+* [Yumol, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al), *Presentation*, Barriers to Education: Identifying key indicators to improve student retention in BARMM
+
+**Most Practical Solution**
+
+* [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus), *Dashboard*, EARTHQUAKE-AT-ARMMs: Exposing Earthquake- and Tsunami-Prone Areas in ARMM
+
+*The following were the other finalists on pitch night:*
+
 * [Arcemo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/arcemo-et-al), *Presentation*, Exploring Kappaphycus alvarezii (Tambalang) and Eucheuma denticulatum (Guso) Properties as Sources for Bioplastic Production:  Economical and Environmental Benefits for the People of BARMM
 * [Caday, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/caday-et-al), *Presentation*, Rubber from Rubber Tree (Hevea brasiliensis) as a Strengthening Agent for Road Reconstruction in Bangsamoro 
 * [Jairus, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/jairus-et-al), *Dashboard*, Infrastructure and Geospatial Data 
-* [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus), *Dashboard*, EARTHQUAKE-AT-ARMMs: Exposing Earthquake- and Tsunami-Prone Areas in ARMM
 * [Tasico, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tasico-et-al), *Presentation*, Tidjara Ta: Bangsamoro Barter App
 * [Tomas, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tomas-et-al), *Presentation*, Copra Meal: As an Alternative Feeds for Fishery
-* [Yumol, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al), *Presentation*, Barriers to Education: Identifying key indicators to improve student retention in BARMM
 
 *The following entries were invited as finalists but advised that they would not be pitching for the finals:* 
 
