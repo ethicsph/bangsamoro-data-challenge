@@ -20,7 +20,7 @@ Four awards were handed out during the pitch night:
 
 A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists were selected to participate in the [final pitch night](https://ethics.ph/bangsamoro-judging/) and eight (8) confirmed their attendance. Three (3) teams won the pitch night competition. 
 
-### Finalists and Winners
+### Winners
 
 The following were the winners of the pitch night: 
 
@@ -33,7 +33,9 @@ The following were the winners of the pitch night:
 **Most Practical Solution**
 * [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus), *Dashboard*, EARTHQUAKE-AT-ARMMs: Exposing Earthquake- and Tsunami-Prone Areas in ARMM
 
-*The following were the other finalists on pitch night:*
+### Finalists
+
+The following were the other finalists on pitch night:
 
 * [Arcemo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/arcemo-et-al), *Presentation*, Exploring Kappaphycus alvarezii (Tambalang) and Eucheuma denticulatum (Guso) Properties as Sources for Bioplastic Production:  Economical and Environmental Benefits for the People of BARMM
 * [Caday, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/caday-et-al), *Presentation*, Rubber from Rubber Tree (Hevea brasiliensis) as a Strengthening Agent for Road Reconstruction in Bangsamoro 
