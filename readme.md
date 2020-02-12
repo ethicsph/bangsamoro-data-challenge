@@ -8,6 +8,14 @@ Open Bangsamoro was a collaborative initiative of [The Asia Foundation](https://
 
 [Data Ethics PH](https://ethics.ph/) was formed to promote, discuss, and assess the ethical use of data and technology in the Philippines. We are joined by wide group of technologists, data scientists, social impact advocates, and students all with a passion to drive social impact using data and technology.
 
+## Awards
+
+Four awards were handed out during the pitch night: 
+* **Best Use of Bangsamoro Data** - the submission that best shows the value of Open Data within BARMM and makes information accessible to stakeholders
+* **Best Use of Data Science** - the submission that illustrates the best and most valid use of data analysis, and/or visualization, and/or predictive modeling towards a socially impactful solution
+* **Most Relevant to BARMM** - the submission with the most potential to contribute to the success of BARMM 
+* **Most Practical Solution** - the submission with the most plausible concept and design
+
 ## Entries
 
 A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists were selected to participate in the [final pitch night](https://ethics.ph/bangsamoro-judging/) and eight (8) confirmed their attendance. Three (3) teams won the pitch night competition. 
@@ -17,15 +25,12 @@ A total of sixteen (16) abstracts were submitted, of which eleven (11) finalists
 The following were the winners of the pitch night: 
 
 **Most Relevant to BARMM, Best Use of Bangsamoro Data**
-
 * [Amistad and Dela Cruz](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/amistad-delacruz), *Dashboard*, Overcome Development Challenges through Visualization Dashboards
 
 **Best Use of Data Science**
-
 * [Yumol, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/yumol-et-al), *Presentation*, Barriers to Education: Identifying key indicators to improve student retention in BARMM
 
 **Most Practical Solution**
-
 * [Puspus](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/puspus), *Dashboard*, EARTHQUAKE-AT-ARMMs: Exposing Earthquake- and Tsunami-Prone Areas in ARMM
 
 *The following were the other finalists on pitch night:*
