@@ -67,3 +67,7 @@ Team Data Ethics PH:
 * [Nick Tobia](https://www.linkedin.com/in/nicktobia/), PhD Fellow, NCPAC, Otago University
 
 We welcome collaborators. Contact us via Linked-IN, or email us at info@ethics.ph.
+
+## License
+
+This work is provided under the terms of Creative Commons Attribution 4.0 International ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)) license. 
