@@ -19,8 +19,8 @@ Previous studies show that BARMM has a higher than average student dropout rate 
 ## Contact Us
 
 * [Albert Yumol](mailto:albert.yumol@gmail.com), Team Lead 
-* [Angelie Maglasang](mailto:angelie.maglasang@gmail.com), Data Translator 
-* [Lexxel Tanganco](mailto:lexxel.tanganco@gmail.com), Data Visualization Engineer 
-* [Elissa Mae Cabal](mailto:elissamaecabal@gmail.com), Data Engineer 
+* [Jeriesa Osorio](mailto: mposorio@up.edu.ph) - Data Translator 
+* [Johnny Ong](mailto: johnnyong963@gmail.com) - Data Visualization Engineer 
+* [Gabriel Daos](mailto: johngabrieldaos@gmail.com) - Data Engineer 
 
 We welcome collaborators. Contact us via email, or email us at info@ethics.ph.
