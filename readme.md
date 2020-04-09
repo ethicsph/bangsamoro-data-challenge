@@ -53,9 +53,9 @@ The following were the other finalists on pitch night:
 
 The following research papers were submitted after the contest proper. 
 
-* [Arellano and Calauod]() *Research Paper*, May the Work Force be with BARMM: An Analysis of Labor Force Participation Rates
-* [Chua and Kiang]() *Research Paper*, Analysis of Gun Usage in BARMM Conflicts
-* [Zamora and Basinillo]() *Research Paper*, Do OOSY What I See?: An Analysis of the Out-of-School Youth Rate in the BARMM
+* [Arellano and Calauod](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/arellano-calauod),  *Research Paper*, May the Work Force be with BARMM: An Analysis of Labor Force Participation Rates
+* [Chua and Kiang](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/chua-kiang),  *Research Paper*, Analysis of Gun Usage in BARMM Conflicts
+* [Zamora and Basinillo](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/zamora-basinillo),  *Research Paper*, Do OOSY What I See?: An Analysis of the Out-of-School Youth Rate in the BARMM
 
 ### Other Abstracts
 
