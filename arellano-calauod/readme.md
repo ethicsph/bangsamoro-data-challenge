@@ -10,7 +10,7 @@ Abstract – Labor force participation rate (LFPR) in BARMM has always been belo
 
 ## Submission
 
-* [Research Paper]
+* [Research Paper](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/arellano-calauod/Teradata%2C%20An%20Analysis%20of%20Labor%20Force%20Participation%20Rate%20in%20BARMM%2C%20March%202020.pdf)
 
 ## Contact Us
  

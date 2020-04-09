@@ -10,7 +10,7 @@ Abstract — Many gun-related disputes, hostilities, rebellions, and terrorism a
 
 ## Submission
 
-* [Research Paper]
+* [Research Paper](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/chua-kiang/Teradata%2C%20An%20Analysis%20of%20Gun%20Usage%20in%20BARMM%20Conflicts%2C%20March%202020.pdf)
 
 ## Contact Us
 

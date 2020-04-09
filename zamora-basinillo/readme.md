@@ -10,7 +10,7 @@ Abstract—The BARMM is a region that struggles when it comes to education, havi
 
 ## Submission
 
-* [Research Paper]
+* [Research Paper](https://github.com/ethicsph/bangsamoro-data-challenge/blob/master/zamora-basinillo/Teradata%2C%20An%20Analysis%20of%20the%20Out-of-School%20Youth%20Rate%20in%20BARMM%2C%20March%202020.pdf)
 
 ## Contact Us
 
