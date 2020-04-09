@@ -49,6 +49,14 @@ The following were the other finalists on pitch night:
 * [Cacho](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/cacho), *Presentation*, Conflict Alert Report
 * [Lambon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/lambon), *Dashboard*, Spatial Analysis & Interactive Visualization for BARMM
 
+### Belated Submissions
+
+The following research papers were submitted after the contest proper. 
+
+* [Arellano and Calauod]() *Research Paper*, May the Work Force be with BARMM: An Analysis of Labor Force Participation Rates
+* [Chua and Kiang]() *Research Paper*, Analysis of Gun Usage in BARMM Conflicts
+* [Zamora and Basinillo]() *Research Paper*, Do OOSY What I See?: An Analysis of the Out-of-School Youth Rate in the BARMM
+
 ### Other Abstracts
 
 The following abstracts were also submitted but did not proceed to the finals: 
@@ -58,6 +66,7 @@ The following abstracts were also submitted but did not proceed to the finals:
 * [Ritualo, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/ritualo-et-al), *Abstract*, Understanding violence from the children's perspective 
 * [Sumalde, et. al.](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/sumalde-et-al), *Abstract*, Conflict Incidents in ARMM, Data and Trends
 * [Tingzon](https://github.com/ethicsph/bangsamoro-data-challenge/tree/master/tingzon), *Abstract*, Geospatial Analysis Platform for Humanitarian Orgs and Local Government
+
 
 ## Contact Us
 
